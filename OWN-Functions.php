@@ -15,7 +15,7 @@
  * FOR A PARTICULAR PURPOSE.
  * Original source from Bill Erickson & Jared Atchison
  * 
-@package    OWNFunctions
+ * @package    OWNFunctions
  * @since      1.0.0
  * @copyright  Copyright (c) 2019, Georgi Popov
  * @license    GPL-2.0+
